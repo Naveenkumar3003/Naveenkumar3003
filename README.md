@@ -53,6 +53,9 @@
   <a href="https://linkedin.com/in/naveen-kumar-15b7b7343/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
+  <a href="https://instagram.com/_blaze_36">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 ---
