@@ -3,7 +3,7 @@
   <img src="https://avatars.githubusercontent.com/u/178363598?v=4" width="150" alt="Naveenkumar3003 Avatar"/>
 </p>
 <h1 align="center">Hi, I'm Naveenkumar 🚀</h1>
-<p align="center"><i>Passionate Developer | Tech Enthusiast</i></p>
+<p align="center"><i>Aspiring Software Developer| Tech Enthusiast</i></p>
 
 ---
 
