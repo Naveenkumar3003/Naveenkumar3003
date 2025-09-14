@@ -2,20 +2,20 @@
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/178363598?v=4" width="150" alt="Naveenkumar3003 Avatar"/>
 </p>
-<h1 align="center">Hi, I'm Naveenkumar 🚀</h1>
+<h1 align="center">Hi, I'm Naveenkumar </h1>
 <p align="center"><i>Aspiring Software Developer| Tech Enthusiast</i></p>
 
 ---
 
-## 📚 About Me
+##  About Me
 
-- 🌱 Currently working on full stack and web development
-- 🖥️ Exploring new technologies and building creative solutions
-- 📬 Always ready to collaborate on interesting projects
+-  Currently working on full stack and web development
+-  Exploring new technologies and building creative solutions
+-  Always ready to collaborate on interesting projects
 
 ---
 
-## 🛠️ Technologies & Tools
+##  Technologies & Tools
 
 ![HTML](https://img.shields.io/badge/-HTML5-e34c26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-2965f1?style=flat&logo=css3&logoColor=white)
@@ -34,7 +34,7 @@
 
 ---
 
-## 📦 Popular Repositories
+##  Popular Repositories
 
 | [StudyMateAI](https://github.com/Naveenkumar3003/StudyMateAI) | [personal-web](https://github.com/Naveenkumar3003/personal-web) | [personal-info](https://github.com/Naveenkumar3003/personal-info) |
 |---|---|---|
@@ -46,7 +46,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Naveenkumar3003&show_icons=true&theme=tokyonight" />
@@ -55,7 +55,7 @@
 
 ---
 
-## 🤝 Connect with Me
+## Connect with Me
 
 <p align="center">
   <a href="mailto:naveennkumar0313@gmail.com">
