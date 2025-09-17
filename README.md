@@ -36,11 +36,11 @@
 
 ##  Popular Repositories
 
-| [StudyMateAI](https://github.com/Naveenkumar3003/StudyMateAI) | [personal-web](https://github.com/Naveenkumar3003/personal-web) | [personal-info](https://github.com/Naveenkumar3003/personal-info) |
+| [StudyMateAI](https://github.com/Naveenkumar3003/StudyMateAI) | [PortfolioX](https://github.com/Naveenkumar3003/PortfolioX) | [Naveenkumar3003](https://github.com/Naveenkumar3003/Naveenkumar3003) |
 |---|---|---|
 | JavaScript | CSS | CSS |
 
-| [FS-PetAdoptionSystem-Project](https://github.com/Naveenkumar3003/FS-PetAdoptionSystem-Project) | [personal-profie](https://github.com/Naveenkumar3003/personal-profie) | [RailwayReservation](https://github.com/Naveenkumar3003/RailwayReservation) |
+| [FS-PetAdoptionSystem-Project](https://github.com/Naveenkumar3003/FS-PetAdoptionSystem-Project) | [RailwayReservation](https://github.com/Naveenkumar3003/RailwayReservation) |
 |---|---|---|
 | JavaScript | HTML | C++ |
 
