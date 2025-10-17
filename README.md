@@ -36,7 +36,7 @@
 
 ##  Popular Repositories
 
-| [StudyMateAI](https://github.com/Naveenkumar3003/StudyMateAI) | [PortfolioX](https://github.com/Naveenkumar3003/PortfolioX) | [Naveenkumar3003](https://github.com/Naveenkumar3003/Naveenkumar3003) |
+| [CineBook](https://github.com/Naveenkumar3003/) | [PortfolioX](https://github.com/Naveenkumar3003/PortfolioX) | [Naveenkumar3003](https://github.com/Naveenkumar3003/Naveenkumar3003) |
 |---|---|---|
 | JavaScript | CSS | CSS |
 
