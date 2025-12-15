@@ -36,9 +36,9 @@
 
 ##  Popular Repositories
 
-| [CineBook](https://github.com/Naveenkumar3003/MovieBookingPrototype) | [PortfolioX](https://github.com/Naveenkumar3003/PortfolioX) | [Naveenkumar3003](https://github.com/Naveenkumar3003/Naveenkumar3003) |
+| [CineBook](https://github.com/Naveenkumar3003/MovieBookingPrototype) | [PortfolioX](https://github.com/Naveenkumar3003/PortfolioX) | [Canteen Menu API](https://github.com/Naveenkumar3003/GDG_Backend) |
 |---|---|---|
-| HTML,Java | HTML | HTML |
+| HTML,Java | HTML | Java |
 
 | [FS-PetAdoptionSystem-Project](https://github.com/Naveenkumar3003/FS-PetAdoptionSystem-Project) | [RailwayReservation](https://github.com/Naveenkumar3003/RailwayReservation) |
 |---|---|
