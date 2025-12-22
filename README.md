@@ -52,19 +52,19 @@
 <p align="center">
   <!-- GitHub Stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Naveenkumar3003&show_icons=true&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api?username=Naveenkumar3003&show_icons=true&theme=tokyonight&hide_border=true&v=2" 
     alt="GitHub Stats" 
   />
   <br><br>
   <!-- GitHub Streak -->
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=Naveenkumar3003&theme=tokyonight&hide_border=true&v=1" 
+    src="https://github-readme-streak-stats.herokuapp.com?user=Naveenkumar3003&theme=tokyonight&hide_border=true&v=2" 
     alt="GitHub Streak" 
   />
   <br><br>
   <!-- Top Languages -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveenkumar3003&layout=compact&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveenkumar3003&layout=compact&theme=tokyonight&hide_border=true&v=2" 
     alt="Top Languages" 
   />
   
