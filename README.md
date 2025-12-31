@@ -49,27 +49,15 @@
 
 ## GitHub Stats
 
-<p align="center">
-  <!-- GitHub Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Naveenkumar3003&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" 
-    alt="GitHub Stats" 
-  />
-  <br><br>
-  <!-- GitHub Streak -->
-  <img 
-    src="https://streak-stats.demolab.com?user=Naveenkumar3003&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" 
-    alt="GitHub Streak" 
-  />
-  <br><br>
-  <!-- Top Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveenkumar3003&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" 
-    alt="Top Languages" 
-  />
-</p>
+<div align="center">
+  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naveenkumar3003&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/Naveenkumar3003)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Naveenkumar3003&theme=tokyonight&hide_border=true)](https://github.com/Naveenkumar3003)
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naveenkumar3003&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/Naveenkumar3003)
+
+</div>
  
 ---
 
