@@ -43,7 +43,7 @@
 
 | [FS-PetAdoptionSystem-Project](https://github.com/Naveenkumar3003/FS-PetAdoptionSystem-Project) | [RailwayReservation](https://github.com/Naveenkumar3003/RailwayReservation) |
 |---|---|
-| MERN | C++ |
+| MERN | C |
 
 ---
 
