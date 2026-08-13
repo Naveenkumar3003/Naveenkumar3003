@@ -87,7 +87,7 @@
 
 ---
 
-> "Code is poetry, written one line at a time."
+> "“It is better to live your own destiny imperfectly than to live an imitation of somebody else's life with perfection.”"
 
 ---
 
